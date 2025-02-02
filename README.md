@@ -65,10 +65,8 @@ todo remove 1
 todo --help
 ```
 
----
 
-## 📂 File Storage
-All tasks are saved in `tasks.json`, allowing persistent storage between sessions.
+
 
 ---
 
