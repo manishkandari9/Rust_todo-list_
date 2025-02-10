@@ -9,4 +9,4 @@ Mark tasks as complete: Once you finish a task, you can mark it as "Completed" o
 Remove tasks: You can remove tasks from your list by specifying their unique task ID.
 Prioritize tasks: Assign priorities to tasks (Low, Medium, High).
 View tasks: List all tasks, along with their status, priority, and due date.
-Persistent storage: Tasks are saved to a local file, so they persist even after you close the programm.
+Persistent storage: Tasks are saved to a local file, so they persist even after you close the program.
